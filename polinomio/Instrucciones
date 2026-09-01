@@ -1,0 +1,5 @@
+Crear el entorno Virtual envWin
+python -m venv envWin
+
+Activar el entorno Virtual
+envWin\Scripts\Activate.ps1
